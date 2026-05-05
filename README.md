@@ -1,6 +1,8 @@
 # Basic Project in Phoenix/Elixir
 I'm using this repo to learn Phoenix and Elixir.
 
+<img width="1086" height="752" alt="image" src="https://github.com/user-attachments/assets/3fdf4b77-4385-452c-8408-05322febf272" />
+
 # Tasker
 
 * Run `mix setup` to install and setup dependencies
